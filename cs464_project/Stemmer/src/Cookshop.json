@@ -1,0 +1,2915 @@
+{
+    "count": 582,
+    "tips": [
+        {
+            "comment": "Yemekler&sunum güzel, servis yavaş. Keşke avm içinde olmasaydı.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia gercekten hafif ve ozel bir lezzet. Herkese tavsiye ediyorum.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler başarılı ancak çalışanların nezaketsiz olduğunu düşünüyorum.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu somon bu kadar güzel yapılamaz. Mükemmeldi.",
+            "food+": ["chili soslu somon"],
+            "food-": []
+        },
+        {
+            "comment": "Bu kadar sevdiğim bir yerde 20 dk.dır siparişimi almalarını bekliyorum. Bakalım menüyü veren menü verdiğini hatırlayacak mı?",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Gelsenizde olur gelmesenizde , hiçbir özelliği yok , yemekler ortalama",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia'yi ben de çok beğendim, çikolatalısini tavsiye ederim.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Lahmacun ekmegine pizza yapiyorlar. Komik. Gereksiz pahali.",
+            "food+": [],
+            "food-": ["pizza"]
+        },
+        {
+            "comment": "Mognolia candir. Ama pollyanna da mukemmel.",
+            "food+": ["magnolia","pollyanna"],
+            "food-": []
+        },
+        {
+            "comment": "Makarnaaas",
+            "food+": ["makarna"],
+            "food-": []
+        },
+        {
+            "comment": "Ankarada minestrone çorbası içebileceğimiz ender yerlerdendi sanırım. Cookshopun bu güzel sebze çorbasını mutlaka deneyin. Ayrıca sunumlarını da beğendim.",
+            "food+": ["minestrone çorbası", "sebze çorbası"],
+            "food-": []
+        },
+        {
+            "comment": "Gordiona her gittigimde ugrarim. Sicak ve kaliteli mekan, antrikotu oldukca iyi, fiyatlarda normal. Servis cok iyi",
+            "food+": ["antrikot"],
+            "food-": []
+        },
+        {
+            "comment": "Evet lezzet degismemis henuz, ama degisir mi diye suphe etmiyor degilim. Keske hic renovasyona girmeseydi,uzdu.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Uzuldum acikcasi, en sevdigim yerlerden biriydi. O hastane lokantasi gibi isiklar ne? Yeni, yakismayan garsonlar?",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia yemeden masadan kalkmayın.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Steak iyi ama üstündeki sebzeler olmasa.",
+            "food+": ["steak"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaa 😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia güzel ama porsiyon az.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlilarini deneyin muhakkak",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Can beyden mutlaka kokteyller hakkında yardım isteyin, tam bir uzman...",
+            "food+": ["kokteyl"],
+            "food-": []
+        },
+        {
+            "comment": "Servis ve mutfak kalitesi supper...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Lezzeti bozmayan nadir isletmelerden.. Fettucini alfredo tavsiye ederim 👍",
+            "food+": ["fettucini alfredo"],
+            "food-": []
+        },
+        {
+            "comment": "Acılı ekşili  sirkeli tuzlu...sebze çorbasına hiç girmeyin",
+            "food+": [],
+            "food-": ["sebze çorbası"]
+        },
+        {
+            "comment": "Somonu cok guzel yapıyorlar... Menudeki hersey birbirinden leziz. Mutfak ve sunum muhtesem.İkinci adresimiz...",
+            "food+": ["somon"],
+            "food-": []
+        },
+        {
+            "comment": "Lazanyasi muthis arkasindan oreolu magnolia'yi tavsiye ederim ! 😍",
+            "food+": ["lazanya", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "En iyisi cilekli magnolia, net 💕👏",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Personel berbat 😬",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Teras süper, et şinitzel tavsiye olunur",
+            "food+": ["şinitzel"],
+            "food-": []
+        },
+        {
+            "comment": "Bence tatlılar harikaaa",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Servis çok yavaş ve verilen siparişi doğru bile getirmiyorlar. Yoğunluğu kaldırmıyor. Pizza melanzane güzel değildi.",
+            "food+": [],
+            "food-": ["pizza"]
+        },
+        {
+            "comment": "Garsonlar biraz süratli yemekler güzel",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Güzel hoş magnoli yenilebilir bir tatlı tatıda güzel fakat bu kadar dar bir yerde keyfi çıkmıyor, 10 masa alacak yere 15 masa sıkıştırılmış ve çok rahatsız edici",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu somon",
+            "food+": ["chili soslu somon"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia güzel, arasıra yemek yemeğe de gidiyoruz, ancak son gittiğimizde  makarna siparişimizi unutmuşlardı hatırlattık 15 dk sonra geldi o da pişmemişti hayal kırıklığı oldu..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Pizzaları lezzetli, misket köfteli Makarna söyledik. Sos miktarı biraz zayıf. Ama genel İtibariyle sanırım lezzetli iş çıkarıyorlar",
+            "food+": ["pizza", "misket köfte"],
+            "food-": []
+        },
+        {
+            "comment": "bazı yerler ve lezzetler ünlü oldukça değer kaybeder ya... işte tam o hisler",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "sizi bilmem ama ben magnolia yedim diye cok mutlu oldum;))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia yiyin 👍🏼 oreolu plsss",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu magnolia super bir tat",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia burada yenir .",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tavuk dolmayi sevdim.",
+            "food+": ["tavuk dolma"],
+            "food-": []
+        },
+        {
+            "comment": "Tüm mönüler güzel",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yediğim en kötü Spagetti Bolognese di. Evde yapsam daha lezzetli olurdu. Sunumu da gayet başarısız. Beklentim yüksekti burdan ama 👎🏻0️⃣",
+            "food+": [],
+            "food-": ["spagetti bolognes"]
+        },
+        {
+            "comment": "hep gelip kahve keyfi yaptigim yer/di. servisi o kadar bozmus ki... uzuldum.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Makarna ve sandviçler",
+            "food+": ["makarna", "sandviç"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia her zamanki gibi cok guzel, çalışanlar kibar, fiyatlar ortalama",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kışın biraz soğuk mu ne burası?",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Enteresan bir müşteri kimliği oluşturmuş, muhtemelen tesadüf değil 👍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Roka permesan salatasi yiyerek dun aksam zehirlendigim yer. Hijyen adina kesinlikle tavsiye etmiyorum.",
+            "food+": [],
+            "food-": ["roka permesan salatası"]
+        },
+        {
+            "comment": "Yemekleri lezzetli doyurucu. Tercih edilebilir.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Herşey yenir burda süper bir işletme sunumlar lezzrler",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemekleri ve tatlıları her zaman lezzetli. Servis ve temizlik kalitesi üst düzeyde. Üstelik numnum kadar pahalı da değil.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Oreolu ve Çilekli Magnolia yı denemeyin çok kötü. Çikolatalısı fena değil. Muzluyu denemedik.",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Magnolia harikadır...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "En çok sevdiğim yerlerden",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizzası, hizmeti, kahvesi. Her şeyiyle harika 👌",
+            "food+": ["pizza", "kahve"],
+            "food-": []
+        },
+        {
+            "comment": "Denemediyseniz hata yapiosunuz ..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "bi günde iki defa gelinir mi, buraya geliniyo işte",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia derim susarım😊",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Gunduz hanimlarin gun toplantisina donmus oturmak vede sessiz ortam bulmak kolay degil",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Tatlı canlı sağlıklı servis iyi sahanda sosis",
+            "food+": ["tatlı", "sahanda sosis"],
+            "food-": []
+        },
+        {
+            "comment": "Butun yemekler basarili ozellikle salatalar cok iyi",
+            "food+": ["salata"],
+            "food-": []
+        },
+        {
+            "comment": "Çok bozdu. 1 çatal aldığım salatamdan sinek çıktı, geri verdim, özür dilediler, ufak bir ikramda bulundular ama o salatayı hesaba dahil etmişler. Ufak hesaplarla müşteri böyle kaybedilir.",
+            "food+": [],
+            "food-": ["salata"]
+        },
+        {
+            "comment": "Yemekler nefis, doyurucu 👍 herkesin gözdesi olan magnolia ise lezzetli ancak güzel sunumlu bildiğin puding😁",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Özellikle kuzu şaşlık ve magnolia mükemmel. Ama Ramazan ayinda alkol vermemek de ne demek be. Size ne kardesim isteyen içer isteyen içmez. Daha da gelmem zaten. Bu yaptiklarindan sonra.",
+            "food+": ["magnolia", "kuzu şaşlık"],
+            "food-": []
+        },
+        {
+            "comment": "Iyi guzel hos ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "amerikan tarzi cirpilmis yumurta cok guzeldi. sadece yanindaki patatesi sevemedim.",
+            "food+": ["amerikan tarzı çırpılmış yumurta"],
+            "food-": ["patates"]
+        },
+        {
+            "comment": "Spagetti ❤",
+            "food+": ["spagetti"],
+            "food-": []
+        },
+        {
+            "comment": "Çorbaları,pizzaları ve tabiki manolyası mükemmel!",
+            "food+": ["magnolia","çorba","pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Lazanyaaaaaaa ;-) Tavsiyemdir.",
+            "food+": ["lazanya"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop çorba nefis. Salataları da öyle. Benim favorilerim Toskana bonfile salatası ve somon füme salata. Ama çok kalabalık olmaya başladı...",
+            "food+": ["çorba", "salata", "toskana bonfile salatası", "somon füme salata"],
+            "food-": []
+        },
+        {
+            "comment": "Güler yüzlüüü personel",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia çok iyi suflede",
+            "food+": ["magnolia", "sufle"],
+            "food-": []
+        },
+        {
+            "comment": "Leziz menüsüyle göz dolduruyor kesinlikle, mekanı anlatmaya gerek yok zaten.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Rissotto ve sandviçler",
+            "food+": ["risotto", "sandviç"],
+            "food-": []
+        },
+        {
+            "comment": "Mmmmm magnoliaaaa ❤️",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia'sini yemeyen kaldıysa mutlaka denemeli bu tatlıyi",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "O limonata bardağı neden dolu değilll?",
+            "food+": [],
+            "food-": ["limonata"]
+        },
+        {
+            "comment": "Yemekleri ve servis çok başarılı. Çalışanlar ilgili ve güler yüzlü. Tavsiye edilir",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çok kalabalık olduğu için genellikle yer bulamıyorsunuz ama servis olarak iyi.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Her şeyiyle çok güzel",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizza sevdigini soyleyen kimse tavuklu pestolu pizzayi denemeden olmemeli, o kadar diyim. 👌",
+            "food+": ["tavuklu pestolu pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekleri gayet lezzetli. Magnolia tatlisini yemediyseniz kesinlikle yemelisiniz.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Bu geldiğimde lazanyayı denedim ve çok memnun kaldım, kıymalı patlıcanlı efsane olmuş üzerindeki pesto sos çok güzel bi lezzet vermiş mutlaka deneyin 👍",
+            "food+": ["kıymalı patlıcan"],
+            "food-": ["lazanya"]
+        },
+        {
+            "comment": "Balon pizza dedik kasarli gozleme geldi. Cayyolundaki koy gozlemesi nedir bilmeyenlere kanip bir gozlemeye 20 tl vereceksiniz gidin.",
+            "food+": [],
+            "food-": ["balon pizza"]
+        },
+        {
+            "comment": "Yemekleri lezzetli fiyatlar uygun ama ortamı vasat bar olan yerde masa örtüsünün ne işi var",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Servisi çok kötü garsonlar çok ilgisiz. Bazen mecburiyet çok kötü😒 neden mecbursun diyen pınar a Gordion dayken rush a mı oturalım yani dedim 😝",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Sadece yemeklerin iyi olması bir mekanı iyi kılmaz. Servis kötü, garsonlar ilgisiz.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Alışverişten sonra magnolya yenir pek guzel olur tatlı molası",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlılar ve ortamı çok güzel ikram edilen küçük ekmekleri bile çok lezzetli yemekleri siz düşünün 😍😍",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu tavuk lezzetliydi. Mekan güzel ve garson arkadaşlarda ilgililer.",
+            "food+": ["chili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia bildiğin bebek maması",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Olumsuz bisey yok, gayet yenilesi ve gelinesi biryer. Gene gelirsiniz.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Tatlıları süper",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Fiyat ve kalite dengesi iyi seviyorum burayı",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemeğini bilmem ama magnolia yapıyorlar ve oldukça lezzetli , teras bölümü çok güzel",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Herşey çok güzel et dürümü deneyinn😊👏👏👏",
+            "food+": ["et dürüm"],
+            "food-": []
+        },
+        {
+            "comment": "4 Peynirli pizza fena değil, daha güzellerini yedim ama, kötü değil, tavsiye ederim. Hamuru ne çok ince ne de çok kalın, tam",
+            "food+": ["4 peynirli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Pizza iyidir",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Meger avm tarafindaki kendi masalarina servis yapmiyorlarmis.Bekleme sabriniz tükenip \"artik bizle ilgilenirmisiniz\" deyince ögreniyorsunuz.peki neden servis yapmiyosan masa koyuyosun?Cevabi yok tabi.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Burada ne iyidir ? Herşey 😉👍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Herkes magnolia demiş ama benim favorim polyanna :))",
+            "food+": ["polyanna"],
+            "food-": []
+        },
+        {
+            "comment": "Sewiyorum hemde çoooooooooook♥♥♥♥",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Salata ve tatlıları na bayiliyorum",
+            "food+": ["salata", "tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia😍😍😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kesinlikle muzlu magnolia..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tek kelimeyle harika...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Her şey çok güzel 👌🏻 Ankara'da daha çok şube açmalı 👍🏻",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizza başarılı.  Cookburger vasat. Magnolianin abartildigini düşünüyorum.",
+            "food+": ["pizza"],
+            "food-": ["cookburger"]
+        },
+        {
+            "comment": "Mekan guzel, sunumlar şık, limonatalara bayılıyorum. Yalancı iskenderi, makarnaları, kinao salatası basarılı. Magnolia ve sufle keki tek gecerim.",
+            "food+": ["limonata", "yalancı iskender", "makarna", "kinao salatası","magnolia", "kek"],
+            "food-": []
+        },
+        {
+            "comment": "Mmm Magnolia bi harika enfes bir tatlı Ankara'ya gelince bana gore ugranmasi gereken bir yer cok sevdim burayı 💓💓",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Dondurma ve magnolia",
+            "food+": ["magnolia", "dondurma"],
+            "food-": []
+        },
+        {
+            "comment": "Salatalar yine guzel, muzlu magnolia enfes....",
+            "food+": ["magnolia", "salata"],
+            "food-": []
+        },
+        {
+            "comment": "Ana yemek chili soslu tavuk ve tatlıda tabiki magnolia👌👌👌",
+            "food+": ["magnolia", "chili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia deneyin...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli ve muzlu magnolia 😊🍨",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Mekan güzel, hizmet özenli. Izgara Levrek Salata lezzetli ve doyurucu. Tatlı menüsünde Magnolia&Mövenpick favorim. Magnolia muzlu, Mövenpick'in ise Swiss Chocolate dondurma ile olanı tercihimdir.",
+            "food+": ["ızgara levrek salata","magnolia", "mövenpick", "mövenpick"],
+            "food-": []
+        },
+        {
+            "comment": "Her seferinde burada keşfedilecek başka bi lezzet var. Gitmekten bıkmadığım mekan... İtalyan sebze çorbasını ve magnolia'larını tadmadıysanız vakit kaybetmeyin derim.",
+            "food+": ["italyan sebze çorbası", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia tabiki efsane. Et ve tavuk seçenekleri de çok güzel :)",
+            "food+": ["magnolia", "et", "tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia en sevdigim",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlısı tuzlusu, acısı ekşisi. Hepsi!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Hersey iyi..ben mutlu hissediyorum. .toplama bakıyorum. .ortam müzik. .yiyecekler..temizlik..hayal kırıklığı yaşamadım. .",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia çok lezzetli. Kesinlikle deneyin.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Bazi garsonlariniz cok sevimsiz ve kabalar. Hatta bazilarinin hadlerinin bildirilmesi gerekiyor. Sirf bu nedenle protesto ediyor ve gitmiyoruz.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Lazanya tüm makarna çeşitleri pizzalar etler salatalar tatlilar kısacası her şey 10 numara",
+            "food+": ["lazanya","makarna","pizza","et","salata","tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop mantı, herkesin denemesi gerek. Karışık magnolia klasik lezzetlerden",
+            "food+": ["mantı","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia&Çimonata harika!",
+            "food+": ["magnolia", "çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Servis kötü",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cafe de Paris üstüne Nutellalı magnolia.",
+            "food+": ["cafe de paris", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Avm içi Restaurant lara nazaran en başarılı ilk 3e girer Ankara için. Kalite fiyat endexi makul. Şarap tüketecekseniz şişe açtırın, ürün ve sunum başarılıydı..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Salatalr cok lezzetsiz",
+            "food+": [],
+            "food-": ["salata"]
+        },
+        {
+            "comment": "Magnolia yi az koyuyolar",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Çok keyifli mekan",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Melenzana muhteşem",
+            "food+": ["melenzana"],
+            "food-": []
+        },
+        {
+            "comment": "Garson emre bey çok nazik ve cok ilgili kendisine coookk teşekkür ederiz 😌",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Kapida karsilayan kizin kalitesizligi beni dehsete dusuruyor 😕",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bonfile ve hardal soslu salata. Gordionda işin varsa burada yiyebilirsin gayet guzel.",
+            "food+": ["bonfile", "hardal soslu salata"],
+            "food-": []
+        },
+        {
+            "comment": "garsonlar ilgili, servis hızlı, yemek lezzetli.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Hayatımda servisi bu kadar kötü bi yer görmedim.sipariş verene kadar 15 dakika hesabı alana kadar 20 dakika.berbat bi yer.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Şuan tam kafa dinlemelik bir ortam hakim. O yuzden pizzanın peynirin az olması hic önemli degil ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Eskiden severek yediğim pizzalar artık peynirli domatesli yulaf ekmeği haline getirilmiş:(",
+            "food+": [],
+            "food-": ["pizza"]
+        },
+        {
+            "comment": "Kokteyller gayet iyi.",
+            "food+": ["kokteyl"],
+            "food-": []
+        },
+        {
+            "comment": "gözlemesi pek güzel, muhakkak deneyiniz",
+            "food+": ["gözleme"],
+            "food-": []
+        },
+        {
+            "comment": "Limonun eksiligiyle cilegin tatli bulusmasini ariyorsaniz çi-monata",
+            "food+": ["çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlıları şiddetle tavsiye edilir.özellikle magolonia",
+            "food+": ["tatlı", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kahve? 👍 tatli? 👍 ana yemek? 👍 pizza? 👍 kisacasi cookshop 👌",
+            "food+": ["kahve", "tatlı", "ana yemek", "pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Avm içinde sıcak samimi hızlı bi mekan 😉",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemek oncesi zeytinyagli ve ekmek",
+            "food+": ["zeytinyağlı"],
+            "food-": []
+        },
+        {
+            "comment": "Kıbrıs'lı köftesini tek geçerim",
+            "food+": ["kıbrıslı köfte"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia tavsiye edilir. Cimonata ile",
+            "food+": ["magnolia", "çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia'dan çok pollyanna'ya bayılıyorum. Sunumlar da sevimli, oturulası mekan.",
+            "food+": ["pollyanna"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia gerçek bir hayal kırıklığı. Bir bebeğin artık muhallebisini getirmişler sanki. Görsel olarak kötü, porsiyon miktarı çok az, lezzeti sıradan muhallebi. Tam bir 'Kral çıplak' hikayesi..",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Magnolia ❤️❤️❤️❤️❤️",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia 😍😍😍😍😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çocuk menüleri çok başarılı 👍👍👍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizza, salata ve makarnaları lezzetli... Hep girişteki tatlılarda aklım kalıyordu, şimdi ilk gidişate magnoliayi deniyecegim, ne cok seveni varmış!!",
+            "food+": ["pizza", "salata","makarna"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia yemeden gitmeyin",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "kahvaltısı güzel. ama en çok da garsonlarını sevdik. güleryüzlü, yardımsever",
+            "food+": ["kahvaltı"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliası harika",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "En güzeli magnolia çileklii <3",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "karışık magnolia ve damlasakızlı türk kahvesi",
+            "food+": ["magnolia", "türk kahvesi"],
+            "food-": []
+        },
+        {
+            "comment": "Cok tatli var",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çorbasından tatlısına oldukça başarılı.",
+            "food+": ["çorba", "tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia ve çi-limonata süper ikili bence denemelisiniz😉",
+            "food+": ["magnolia", "çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Izgara levrek salata 👌",
+            "food+": ["ızgara levrek", "salata"],
+            "food-": []
+        },
+        {
+            "comment": "Her lezzeti ayrı güzel..Ama Magnolia sı tartışılmaz..çalışanları güleryüzlü.servis hızlı..Harika bir yer😊",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia cilek li muzlu 🍓🍌👍 😋😋",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia müthiş👍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Zengin menu arasindan chilli soslu tavuk tavsiyemdir.sunumuyla gozunuze tadiyla damaginiza hitap eden ve yaninda pure ile sebzelerin geldigi bu doyurucu tabagi kacirmayin.+ siparisimiz hizli geldi",
+            "food+": ["chilli soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia cok abartilmis cok siradan ve malzemeyi aciyorlar malesef hayal kirikligi :(",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Bir avm de oldugu dusunulurse standart ustu bir yer, muzlu pudingi denemeden cikmayin...",
+            "food+": ["puding"],
+            "food-": []
+        },
+        {
+            "comment": "Meşhur tatlısını bir ben beğenemiyorum:// (magnolia)",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Macchiato ya süt ile bi güzellik yaparsanız tam olacak bence😊yine çok orijinal ve güzel menüye sahip bir yer👍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemekleri lezzetli, temiz , kaliteli",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Guzel .ben sevdim.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Mexicano'su ciddi anlamda başarılı aci sevenlere... ama magnolia bence cok siradan puding ve muhallebiden oluşuyor bence denemeye degmez:)",
+            "food+": ["mexicano"],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Magnolia, pollyanna, ganaj üçü de birbirinden güzell 🍨🍧🎂🍰🍪🍮🍦🍴😋",
+            "food+": ["magnolia", "pollyanna", "ganaj"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia harika özellikle çilekliyi deneyiin 😋🍓🍨🍧🍰",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu tavuk tek gecerim sunum harika",
+            "food+": ["chilli soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Bu magnolia neymiş be diye merakla gittik, simdi her Gordion'a gittiğimizde koşarak magnolia yiyoruz :) oreolu efsane",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu tavuk bence menunun en iyisi servis hizli garsonlar guler yuzlu tatli olarak klasikleri magnolia enfes",
+            "food+": ["chilli soslu tavuk", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Sadece ve sadece magnolia icin bile gidilir 👌",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Elmalı tarçınlı Mognolia puddingini denemelisiniz",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Manolya yi tek porsiyonda cesitlendirmeleti sahane olmus ama muzluyu hic biri gecemez 😊",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia tatlısı özellikle tarçınlı ve elmalı kesinlikle deneyin çay menüsüde oldukça güzel ve geniş",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia magnolia evet lezzetli ama cok abartmıyo musnz a dostlar? 😜",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop steak. Gidipte denemesseniz ayip edersiniz:))",
+            "food+": ["cookshop steak"],
+            "food-": []
+        },
+        {
+            "comment": "baya iyi ama gelmeyin kalabalık olmasın :) yerfıstıklı tavuğu çok beğendim.",
+            "food+": ["yerfıstığı tavuğu"],
+            "food-": []
+        },
+        {
+            "comment": "Garsonlar gerçekten ilgisiz. Manolya puding elma tarçın, muz ve oreolu alın muhteşem :) ama yanında getirdikleri kaşık gereksiz derecede büyük ve kepçe gibi.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Sadece cookshop a özel magnolia puding cesitlerini denemelisiniz,👍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Hafif bir tatlı için en güzel seçim Magnolia. Limonata sunum çok güzel ancak daha güzellerini icmistim.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Pizzalar super..",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "İzmirde niye yok ya😢",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Dekorasyonu ve garsonların sıcaklığı ile içinizi ısıtan hoş bir mekan..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çalışanlar çok meşgul. Sizinle ilgilenecek vakit bulamazlar. Gidip de rahatlarını kaçırmayın",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Süper tatli ..",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Yemeklerin hepsi guZel . Tatlilar daha guZel",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia pudding bir harika",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia muzlu ve cileklisi hem agir degil hemde cok guzel",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Mexicana tavuk ve magnolia hafif ve lezzetli",
+            "food+": ["mexicana tavuk", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kesinlikle kulbasti denenmeli",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Çocuk menüsü olan rahat ve hızlı servisin olduğu bir mekan",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemek ve tatlılar süper.",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Bolca tahilli salataa ve mucver ikilisine bayılıyorum. ..",
+            "food+": ["tahıllı salata", "mücver"],
+            "food-": []
+        },
+        {
+            "comment": "Pizza yemek isteyenlere tavsiyem Paleja, servis elemanından üzerine biraz da zeytinyağı dökmesini isterseniz mükemmel bir lezzetle tanışacaksınız. :)",
+            "food+": ["paleja"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler zaten vasat olmus da, yemegin ustune caya ucret yazan her yeri kınıyorum!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Uzakdogu mutfagi, aci, eksi ve corba sevenler icin muthis bir corba var burda: acili eksili corba, cok basarili, ilk defa deneyecekler yarim porsiyon da isteyebiliyor. Yalniz muthis aci, nefes kesiyor",
+            "food+": ["çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Bulasiklar iyi yikanmiyor!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Genel olarak fena değil ama cookburger'de hamburgeri keçi peyniri ile yapmayı denemek büyük hüsran, olmamış.",
+            "food+": [],
+            "food-": ["cookburger"]
+        },
+        {
+            "comment": "Muzlu/Kakaolu/Çilekli magnoliadan sonra, Oreolu ve Elmalı-Tarçınlı magnoliada çıkmış. Tatlılar çeşitlenmiş. Dev browni ve mozaikler güzel görünüyordu.😋",
+            "food+": ["magnolia", "browni", "mozaik"],
+            "food-": []
+        },
+        {
+            "comment": "4 peynirli pizzası,soğan çorbası ve ve tabi ki çilekli magnolia sı...Ilgi ve hizmette takdire şayan garsonları da unutmamalı tabii! 😊",
+            "food+": ["magnolia", "4 peynirli pizza", "soğan çorbası"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu pudingten tatlı, limonatası ve 4 peynir pizza denenebilir.",
+            "food+": ["magnolia", "4 peynirli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Pancakee 😋 kahvaltı için kesinlikle ideal bi yer. Porsiyonları o kadar büyük ki bitirmeye çalışırken yoruluyorsunuz ve bitiremiyosunuuz 😄",
+            "food+": ["pancake", "kahvaltı"],
+            "food-": []
+        },
+        {
+            "comment": "Guzel bi mekan tavsiye ediyorum...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Renklimi renkli içimi açan sevdiğim bu mekanın \"chili soslu tavuk\" gibi leziz tatlarının olması da apayrı güzel. Sunumlarda özel ;-)",
+            "food+": ["chili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "4 peynirli pizzası oldukça lezzetli, genel itibariyle yemeklerinden memnun kalacağınız bir yer. Konsepti de oldukça sıcak ve samimi",
+            "food+": ["4 peynirli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler bir mükemmellik eseri. Utanmasam ellerindeki bütün çorbaları içeceğim. :-):-):-)",
+            "food+": ["çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Kahvaltı on numara bes yıldız👏👏 pancake harika,yiyin yedirin 💕💕",
+            "food+": ["kahvaltı", "pancake"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler ve magnolia Tatlısı muhteşem",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia tatlisi abartildigi kadar var, lezzeti sahane ama bence sunumu daha zevkli olabilir 🍨🍧",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "beklentimin çok çok altında..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pazar sabahlari nefis kahvaltisi ile taze meyve suyu... Denemek gerek...",
+            "food+": ["kahvaltı", "meyve suyu"],
+            "food-": []
+        },
+        {
+            "comment": "Yemeklerin lezzeti kadar sunumlarınada dikkat etmeleri insanın iştahını açıyor. Chili soslu tavuk harika. Schnitzel lezzetli ve doyurucu. Tatlı olarak tabiki bir Cookshop klasigi olan magnolia.",
+            "food+": ["chili soslu tavuk", "schnitzel", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Maçtan sonra akşam yemeği...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Saatlerdir oturuyorum garsonları çok ilgisiz",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "\"Kayseri mantısı gibi \" diye istiridye makarna içi kıyma geldi, tabakta yoğurda da rastlayamadım..Üstüne bir de 10 paket mantı parası verdim..Kötü, tavsiye etmem..",
+            "food+": [],
+            "food-": ["kayseri mantısı"]
+        },
+        {
+            "comment": "Muzlu magnoliasi ve dekoru harika:)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlılarından yemeden gitme",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Kıbrıs köfte",
+            "food+": ["kıbrıs köfte"],
+            "food-": []
+        },
+        {
+            "comment": "Karışık magnolia hakketten çok güzeeel :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia guzel ama zaten yapimida basit bir tatli ,yemekler orta fena degil ,garsonlar ilgili",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Uzun zamamdır bu kadar güzel çilekli frambuazlı magnolia yememiştim. Tadı damağımda kaldı.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Gerçekten beğendiğim bir restoran. Lezzetli yemek önerim: chilli soslu tavuk. Enfes.....",
+            "food+": ["chilli soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Ensevdigim sey muzlu magnolya ondanda fazla sanirim ilgili ve guleryuzlu personeli seviyorum :))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "O tavandaki king kong afisi yaratici.. Cadde cookshoptaki oreo magnolia daha guzeldi sanki..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Özellik muzlu magnolia yenilir.Tüm yemekler çok lezzetli.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Denediğim herşeyden memnun  kaldım şimdiye kadar...tek eksiği çay ikramının yanında birşey olmaması...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemek ve özellikle tatlıları için mükemmel diyebilirim. Çalışanlar dahi herşeyi kusursuz yapmak adına çaba sarfetmeye çalışıyorlar...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia enfes👌",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli muzlu magnolia diyorum mmm..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Külbastı beğendi lezzetliydi, servis hızlı, garsonlar kibar ve ilgililerdi. Wc bırakın ihtiyaç gidermeyi el yıkamak için bile girilmez. Mutfaktaki hijyeni merak ettim.",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Bir Antalyalı olarak AVM 'ye özellikle yemek için gelmek çok önceleri şaşırtıyordu. Ama yarı  Ankaralı olunca böyle güzel mekan için avm ye gelinir.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pastalar.:-)",
+            "food+": ["pasta"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia'yla ask yasiyoruz ❤️",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Cilekli magnolia favorim",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekleri harika. Somon salata en iyilerinden",
+            "food+": ["somon salata"],
+            "food-": []
+        },
+        {
+            "comment": "Hizmet bi harika tabi yemekler de ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizza, cafe de paris, salatalar ve beğendi li herşey",
+            "food+": ["pizza", "cafe de paris", "salata"],
+            "food-": []
+        },
+        {
+            "comment": "biftekler leziz...",
+            "food+": ["biftek"],
+            "food-": []
+        },
+        {
+            "comment": "Patlıcan beğendim:-)",
+            "food+": ["patlıcan"],
+            "food-": []
+        },
+        {
+            "comment": "Sunum önemli. Sonuçta peynir zeytin ama göz doyuruyor.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Somon'u kesinlikle tavsiye ediyorum..",
+            "food+": ["somon"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia😍😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Her yönü ile gAyet iyi yemek keyfinize gore seçin yiyin tatlıda magnoliadan vazgeçmeyin",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ankara da daha fazla subesi olsa iyi",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Asya usulü somon muazzam. Deniz ürünü sevin ya da sevmeyin kesinlikle tatmalısınız.",
+            "food+": ["asya usulü somon"],
+            "food-": []
+        },
+        {
+            "comment": "Karışık Magnolia ve yanında dondurma nefis...",
+            "food+": ["magnolia", "dondurma"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop'a gittiginizde sakın tabağınızda patates varsa, ortaya da ayrıca patates istemeyin.. Çünkü gözlüklü, bilmiş bir garson gelip yiyeceğinize karışabilir, \"yemeyin aman ha\" diyebilir... 😠",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Güzel bir yer ama Mertcan Terzi tüm herşeyi bitiriyor",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Lezzet mabedi !",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "CookShop Mantı kesinlikle tavsiye ediyorum.. Deneyin...",
+            "food+": ["mantı"],
+            "food-": []
+        },
+        {
+            "comment": "bi hevesle gunlerdir yemek istediğim magnolia kremasi eksimis :((((( ama sagolsunlar anlayislada karsilayip hesaptan düştüler :) ama büyük husran oldu benim icin :(",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Dengesiz porsiyon boyutları pizza aile boyu gelio, mantı tam tersi...sonuçta güzel tebrikler",
+            "food+": ["pizza"],
+            "food-": ["mantı"]
+        },
+        {
+            "comment": "pideli şaşlık ve külbastı beğendim, şiddetle tavsiyemdir..",
+            "food+": ["pideli şaşlık", "külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Nutellalı magnolia olmamış. Çilekli süper!",
+            "food+": ["magnolia"],
+            "food-": ["nutellalı magnolia"]
+        },
+        {
+            "comment": "Sicakta cilekli limonata",
+            "food+": ["çilekli limonata"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia harika,ortam güzel,fakat servis sıkıntılı.Caddebostan'daki Halil Bey'in ilgisinden sonra burdaki ilgisizlik biraz can sıkıcı.Ama Magnolia için katlanılır :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Menudeki hersey cok lezzetli. Garsonlar gayet iyi.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Fıstıklı Tavuk çok hoş, kesin öneririm. Magnolyasıda zaten bir klasik, en güzelleri muzlu ve çileklileri",
+            "food+": ["fıstıklı tavuk","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Arinc g.le beraberseniz sknti var demektir",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Servisten emre beyi çok sevdik başarlı 👍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "magnolia :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Serviste gecikme üzerine rekor kırıyorlar! Hazır bir tatlıyı 20 dakikada getiremediler. Bir daha ASLA gelmem.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Kahvesi, tatlisi, yemegi.. Ne yesen memnun ayrilacagin nadir noktalardan birisi. Tesekkurler Cookshop!",
+            "food+": ["kahve", "tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "bir kere masadaki kasımpatılar canlı hem orjinal su şişesi içinde..  :)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Pizzalar mükemmel",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Deniz chefin elinden butun izgaralar nefis...",
+            "food+": ["ızgara"],
+            "food-": []
+        },
+        {
+            "comment": "Devam ediyorum; Enginarlı pizzada, bir kac enginar yaprağı vardı sadece, eskiye gore malzemeyi çok azaltmışlar. Ne değişti diye sorduk; şef değişmiş ve mutfak ekibi... Yazık olmuş...",
+            "food+": [],
+            "food-": ["enginarlı pizza"]
+        },
+        {
+            "comment": "Yazık...Kesinlikle Ankara'nın,  belki Türkiye'nin en guzel pizzasını yaparlardı. Bu kez her şey tam bir hayal kırıklığı. Ekmekler soğuk geldi. Cookshop kokteylin içindeki meyvelerden birisi kufluydu.",
+            "food+": [],
+            "food-": ["pizza", "kokteyl"]
+        },
+        {
+            "comment": "Cilekli ve cikolatali karisik magnolia is the best",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Yanlış alınan bir siparişin üstüne siparişi alan personelin ve diğerlerinin yanıbaşımda birbirleriyle tartışmaları çok itici ve rahatsız ediciydi. Onun dışında yemekleri ve tatlıları oldukça lezzetli",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Sütlü patatesine bayıldım özel sosu ile müthiş :)",
+            "food+": ["sütlü patates"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia Bakery'i özlediyseniz Magnolia Karışık tavsiye ederim :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia denemeden ayrılmayacaksınız! Perfecto!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Burayi seviyorum. En kalabalik oldugu anlarda bile calisanlarinin guler yuzu, servisteki kalite, yemekteki lezzet, kisacasi hic bir sey bozulmuyor! Tesekkurler",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Iyi görünümlü kötü işletme,  tuvaletler niye bu kadar kirli?",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia için geldiğim en muhteşem yer diyebilirim :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Herşey çok güzel,tşk erkan bey",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Meğer Annem bana yıllarca magnolia yapmista haberimiz yokmuş :) bu arada çilekli magnolia guzel fakat çilek konusunda biraz sıkıntı var sanırım bulmakta zorlandım  :))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Uzak doğu usulü acılı ekşili çorba acı sevenler için ideal ve çok doyurucu",
+            "food+": ["acılı ekşili çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli magnolia ?",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Herkesin hayran kaldığı magnolia bence vasat bi tad. Puding, bebe bisküvisi, meyve; bu kadar.",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Meşhur Magnolia yı taddım ama bana göre kesinlikle Tarçınlı ve Elmalı yemelisiniz. Yanında benim gibi filtre kahve seviyorsanız fincanı önceden ısıtsınlar, kahve çabuk soğuyor",
+            "food+": [],
+            "food-": ["kahve"]
+        },
+        {
+            "comment": "Cook Burger Keçi Peynirli... Ben Keçi Peyniri ile Burger ı beraber çok sevmedim. Cheddar daha çok yakışıyor. Ayrıca Karamelize soğan da lazım Burger a.. Köfte lezzetli ama mutlaka orta pişmiş isteyin",
+            "food+": [],
+            "food-": ["cookburger"]
+        },
+        {
+            "comment": "Çok sayıda tavsiye edilen Acılı Ekşili çorbayı içtim. Lezzetli ama öyle km lerce öteden sizi buraya getirecek kadar değil. Sebzeler diri ve Çorba ile özleşmemiş.. Sushico da daha lezzetli bence",
+            "food+": [],
+            "food-": ["acılı ekşili çorba"]
+        },
+        {
+            "comment": "Kibrisli koftesi gerçekten cok guzel ve cok doyurucu",
+            "food+": ["kıbrıslı köfte"],
+            "food-": []
+        },
+        {
+            "comment": "Yemeklerini cok severim leziz ve kalite ama et schnitzeli bunun haricinde tutuyorum.. Tavsiye etmem",
+            "food+": [],
+            "food-": ["et schnitzel"]
+        },
+        {
+            "comment": "Garsonlar ilgisiz, umarim yemek guzel gelir",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "\"Külbastı beğendim\" çok çok lezzetli.",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Füme tavuk pizza ve çilekli magnolia nefis 👌",
+            "food+": ["magnolia", "füme tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Kahvaltısı çok güzel",
+            "food+": ["kahvaltı"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlıları harika :)",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "yemegin üzerine içilen bi bardak cayı ikram etmeyen hesaba yazan zihniyetten nefret ediyorum cok ayıp cookshop!!!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemekleri harika servis personeli cok kibsr ve güleryüzlü...cihili soslu tsvuk bir harika...",
+            "food+": ["chili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Herşeyi güzel ama sevimli kuş bi ayrı güzel:)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Kötü bir zamanda mı geldik acaba? Servis görevlileri çok mutsuzlar.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Her üç yemeğin adı aynı ve istediğin ve gelen yemeğin bambaşka oluşu tam bir fiyasko",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Mantar soslu bonfile gayet basarili",
+            "food+": ["mantar soslu bonfile"],
+            "food-": []
+        },
+        {
+            "comment": "Sadece magnolia için gideceğim bir yer. Yemekleri ve çi-monatası çok sıradan.",
+            "food+": ["magnolia"],
+            "food-": ["çimonata"]
+        },
+        {
+            "comment": "Muzlu ve çilekli magnolia denemeden gitmeyin :-)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Acili eksili corbaya guzel diyenler hic acili eksili corba icmemisler saniri😁 rezalet bir corba! Ustelik tatlimsi bir tadi var..",
+            "food+": [],
+            "food-": ["acılı ekşili çorba"]
+        },
+        {
+            "comment": "Kesinlikle magnolia...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler harika yalniz cep yakar monudeki fiyatlarla servis edilenlerin fiyatlari tutmuyor,bahsisiyle birlikte aliyorlar herhalde",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yanlış sipariş alınmasından mütevekkil(!) kaşığı daldırınca geri çekemediğim lezzet🙈😋 Denenesi👍 Çilekli👌 'Muzlu' kısmı araya kaynadı ama artık birdahakinde..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Enginar pizza, müco, cookshop risotto, sutlu patates, izgara somon menunun hepsi guzel ya la",
+            "food+": ["enginar pizza", "müco", "risotto", "sütlü patates", "ızgara somon"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia rocks! Tesekkurler YBS&Ekin:)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Menüleri ve servis hizmeti cidden harika, ayrıca sevgililer günündeki şirin kurabiyeleri de süperdi 😉😍",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bizim köftesini pek tavsiye etmem ama alternatif mantı başta olmak üzere diğer menüleri çok leziz 😌",
+            "food+": ["mantı"],
+            "food-": ["bizim köfte"]
+        },
+        {
+            "comment": "Mantı rezalet.",
+            "food+": [],
+            "food-": ["mantı"]
+        },
+        {
+            "comment": "Seviyorum burayı buradakileri yemekleri herşeyi herşeyi ☀☀☀💛💛💛    👌",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop'a gelinir, Magnolia yenilir hafif mi hafif hayatı tatlandirir :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Garsonları zorlamazsan hareket etmiyorlar. Ama manolya puding gerçekten çok kalite tavsiye ederim",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli magnolia 👍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia keyfi...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Şuana dek yediğimiz tüm yemekleri lezzetliydi. Ancak o ayranı ufacık bir bardakta servis etmelerini kınıyorum.",
+            "food+": [],
+            "food-": ["ayran"]
+        },
+        {
+            "comment": "Kulbasti nefis :)))",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Sicilya usulü sebze çorbası enfes,Tolga ya katılıyorum :)",
+            "food+": ["sicilya usulü sebze çorbası"],
+            "food-": []
+        },
+        {
+            "comment": "3 biber soslu bonfile",
+            "food+": ["3 biber soslu bonfile"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler Güzel,  magnoliayı meraktan yedim.  Muhallebi içine meyve parçaları üzerine petit- beure kırıntısı. Güzel ama abartıldığı kadar yok...",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Keçi peynirli salata buğdayından yenmiyor, keçi peynirini bulana da aşk olsun!",
+            "food+": [],
+            "food-": ["keçi peynirli salata"]
+        },
+        {
+            "comment": "cilekli frambuazli magnolia!<3",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Igrenc servis siparis vermek için 15 dk beklerken ana yemeginiz corbanizi içerken kafanıza dayanıyor. BIRI BUNLARA NASIL YEMEK SERVİS VERILIR ANLATSIN...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Ankara'nın en iyi restoranlarından. Acı-ekşi çorbayı mutlaka deneyin 😉",
+            "food+": ["acı ekşi çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia ve çi-limonata favori.. yemekler hep güzel.. servis hep hızlı ve personel nazik..",
+            "food+": ["magnolia", "çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaaaa  ama bu yenir ki :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kahvaltisini tek geçerim...",
+            "food+": ["kahvaltı"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia dünyanın en güzel tatlısı ;))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia ve sütlü patates çok güzel",
+            "food+": ["magnolia", "sütlü patates"],
+            "food-": []
+        },
+        {
+            "comment": "Neden magnolia cnm anlatsana brz.s",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yılbaşına özel kurabiyeler çooookk tatlı olmuş.",
+            "food+": ["kurabiye"],
+            "food-": []
+        },
+        {
+            "comment": "Füme somon salata, off sen bi harikasın😘tabağı resmen silip süpürdüm😛",
+            "food+": ["füme somon salata"],
+            "food-": []
+        },
+        {
+            "comment": "Eğer cookshopa gidip de magnolia adlı tatlıyı yemediyseniz boşa yaşıyorsunuz diyebilirim...Muzlu olan favorim :)))))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ahçılari aldiklari paranin her bir kuruşunu kesinlikle hak ediyor...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia bahane Sevimli Kus sahane!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "ozellikle mantar soslu bonfilesi cok guzel.",
+            "food+": ["mantar soslu bonfile"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli muzlu magnolia sen ne güzelsinnn...:)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Gordionda sigara ve cay icebileceginiz tek yer ama cok sogukkk",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu puding deyip geçmeyin New york özleminizi şiddetle hafifletecek kadar başarılı diyorum ;)",
+            "food+": ["muzlu puding"],
+            "food-": []
+        },
+        {
+            "comment": "Tuvaletleri berbat. Umarım bir el tarlar, buraya yakışmıyor.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Gerçekten kaliteli yemekler yiyebileceginiz bir yer.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çok sık gelirim..her zaman gelirim..siz de gelin..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Servis on numara",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia super.garsonlar da gayet nazik.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlıları,yemekleri çookk güzel:))ha bi de güleryüzlü servis elemanları:))gidin,gidin:))",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Burası ankaranın en nezih mekanı.. 😃",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia , kulbastı beğendi ve 4 peynirli pizza ...",
+            "food+": ["magnolia", "külbastı", "4 peynirli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "mükemmel !!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "sicilya usulü sebze çorbasını mutlaka deneyin..",
+            "food+": [],
+            "food-": ["sicilya usulü sebze çorbası"]
+        },
+        {
+            "comment": "Çilekli magnolia süperrr .. Ayrıca çocuğunuzun oyalanması için boyama kitabı getirmeleri çok hoş ..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "cilekli magnolia sen ne güzelsinnn...:)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia bir harika...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia yemeden kalkmayın!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Lavazaa coffe içmeden eve gitmeyin",
+            "food+": ["lavazaa coffee"],
+            "food-": []
+        },
+        {
+            "comment": "Balık severler için asya usulu somon şiddetle tavsiye edilir.. Üstüne ise muzlu çilekli magnolia pudding..",
+            "food+": ["magnolia", "asya usulü somon"],
+            "food-": []
+        },
+        {
+            "comment": "Hersey guzel ama salata ve noodle secenekleri mükemmel !!",
+            "food+": ["salata","noodle"],
+            "food-": []
+        },
+        {
+            "comment": "Sütlü patates yeterlidir",
+            "food+": ["sütlü patates"],
+            "food-": []
+        },
+        {
+            "comment": "Menüsü beni tatmin etmedi işte bu bunu yiyeyim diyeceğim bi yemek bulamadım . Mochası güzel",
+            "food+": ["mocha"],
+            "food-": []
+        },
+        {
+            "comment": "Pizza con melanzane başarılı. Her seferinde magnolia çilekli-muzlu yemek kilo aldıracak 😊",
+            "food+": ["pizza","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Manolya puding kesinlikle yenmeli",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Cilekli ve muzlu magnolia yemeden gidilmez burdan :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia'yı ilk defa denedim, o ne oyle yaaa nefiss!! çikolata muzlu karışık yaptırın😋",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Somon Teriyaki gayet güzel. Çilekli ve muzlu karışık magnolia'yı da tatmadan ayrılmayın derim 😊",
+            "food+": ["omon teriyaki","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kulbasti beğendim muhtesemmmmmm enfesss....",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Yemeklerin ve tarzi mukemmel bi yer",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Güzel biyer tatlı ve pizzalar güzel",
+            "food+": ["tatlı", "pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Peperoni pizza mükemmeldi(:",
+            "food+": ["peperoni pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia çok lezzetli... Basit bir tatlı gibi görünse de tadını tutturmak zor:)... Özellikle çikolatalısı favorim:)...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Terasi keyifli servis hizli ...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia kesinlikle yenmeli :-)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "sicilya usulu corba cok guzel..",
+            "food+": ["sicilya usulü çorba"],
+            "food-": []
+        },
+        {
+            "comment": ":))) çi-limonata cokk guzelsin ki",
+            "food+": ["çilimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Teras keyfi ile birlikte muzlu manolya ve çay...",
+            "food+": ["muzlu manoyla", "çay"],
+            "food-": []
+        },
+        {
+            "comment": "Salataları güzel ve hızlı servis yani başarılı",
+            "food+": ["salata"],
+            "food-": []
+        },
+        {
+            "comment": "Cilekli ve muzlu magnolia bir harikaaaa🙀",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Karışık bir magnolia yemeden sakın gitmeyin.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "tatlilarini henuz deneyemedim ama mukemmel bir hamburgeri var..",
+            "food+": ["hamburger"],
+            "food-": []
+        },
+        {
+            "comment": "Mağnoliasıı süperr😝 özellikle karışık olanı şiddetle tavsiye ediyorum😜",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Külbastıyı ilk kez,bu kadar ince ve yumuşak olarak yedim,hatta içinde çok hafif pembelik vardı, tam istediğim şekilde olmuş yani. Beğendisi de ayrı güzeldi. Yapanın eline sağlık (:",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Alternatif iskenderi kesinlikle deneyin... Cookshop cocteyl frozen yanında magnolia süper ikili ;)",
+            "food+": ["alternatif iskender","magnolia", "cookshop cocteyl"],
+            "food-": []
+        },
+        {
+            "comment": "Özel cola şişeleri, yemek ve tatlıları ile herşey süper, acılı ekşili çorba müthiş hizmet ve çalışanlar baya ilgili...",
+            "food+": ["acılı ekşili çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Deniz mahsüllü risotto gayet doyurucu ve basarili.",
+            "food+": ["deniz mahsüllü risotto"],
+            "food-": []
+        },
+        {
+            "comment": "Ramazan da corbadan sonra yemek soylemeyin corba kazanla geliyor zaten :) tatli yiyin tamam",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Arpa şehriyeli kıymalı çorba süperdi :))",
+            "food+": ["arpa şehriyeli kıymalı çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Artık şu yırtık pırtık ve ütüsüz örtülerle ilgilenseler diye düşünmüyor degilim!!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Evde gibi lezxetli keyifli",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çayı güzel. Magnolia puding zaten fenomen.",
+            "food+": ["magnolia", "çay"],
+            "food-": []
+        },
+        {
+            "comment": "Mantar soslu bonfile mutlaka denenmeli ! Ayrıca madam cinderralla müthiş !!!!",
+            "food+": ["mantar soslu bonfile", "madam cinderralla"],
+            "food-": []
+        },
+        {
+            "comment": "sebzeli hellim salata ...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Chili soslu tavuk, sunum ve tat enfes...",
+            "food+": ["chili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Kızgın kumardan serin sulara olmasada 10 numara büyüksün gökhan özzaim",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Babaannemin Abbasiler döneminden kalma masaörtüleri kıraathaneye gelmişim gibi bir etki bıraksa da üzerimde tatlıları çok iyi mekan.",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Çilekli limonata süper",
+            "food+": ["çilekli limonata"],
+            "food-": []
+        },
+        {
+            "comment": "Sufflesi suffleden başka herşeye benziyo",
+            "food+": [],
+            "food-": ["suffle"]
+        },
+        {
+            "comment": "Light, doyurucu hem de lezzetli bir yemek istiyorsanız \"sebze&hellim ızgara\"yı deneyin, harika birşey! ❤",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bazi porsyonlar biraz kucuk ama servis ve ilgi cok iyi, fiyatlar normal, yemekler enfeeeessss! <3",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Acılı ekşili çorbayı bir de burada için! Başarılı :)",
+            "food+": ["acılı ekşili çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Mmm..magnolia ;)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia harika bir tatli kesinlikle yenmeli",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Bugun her sey cok garip cookshopta :) garsonlarin kafa guzel gibi nerdeyse hesap odemeden kalkicazzzz :)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Elmalı tart çok ekşi sanki limonlu tart.. Ama cookshop canımızdır.. :)",
+            "food+": [],
+            "food-": ["elmalı tart"]
+        },
+        {
+            "comment": "Magnolianin tadi iyi hos ama abartilacak bi yani yok",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cimonataa denenmeli :)",
+            "food+": ["çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Servis hiçte hızlı değil hesabıda yarım saatte getiriyorlar",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemek servis güzel:))",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bir makarna sever olarak Ankara'da en guzel penne arabbiata yapan mekan.tek geçerim",
+            "food+": ["penne arabbiata"],
+            "food-": []
+        },
+        {
+            "comment": "Ekmek bayat diye yolladiktan sonra daha bayat ekmek getirmeleri servis kalitesinin ne kadar boktan olduğunu göstermiş oldu...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Garson mehmet ali bey servisiniz çok iyi kutlarım ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Denemek lazim",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Ablamın en sevdiği yer benim de tartışmasız en sevdiğim yerdir.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Noodle cok basarili limonatasi da ama kavanozunuzdaku naneleri ve elma dilimini yemeden vermeyin bardaginizi:)",
+            "food+": ["noodle", "limonata"],
+            "food-": []
+        },
+        {
+            "comment": "Güleryüzlü çalışanlarıyla avm de huzur bulduğum tek yer ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Çorbaları, mücveri ve pazı dolması lezzetli personel güleryüzlü.",
+            "food+": ["çorba", "mücver", "pazı dolması"],
+            "food-": []
+        },
+        {
+            "comment": "Hemen hemen tum salata ve etleri lezzetli. Magnolia' da tercih cikolatali olmali bence. Personel gayet guler yuzlu ve sevecen.",
+            "food+": ["salata", "et", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia çikolata ve muz mutlaka deneyin",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ankara için bir klasik. Awm içinde olmasa çok daha iç açıcı olurdu. Ama yemekler harika.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cafe latte starbuckstan iyi bence",
+            "food+": ["cafe latte"],
+            "food-": []
+        },
+        {
+            "comment": "Mozaik pasta ! ",
+            "food+": ["mozaik pasta"],
+            "food-": []
+        },
+        {
+            "comment": "Cilekli movinpick magnolia superrrr",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "her günümüz yorucu geçse de çok biz Cookshop da olmaktan mutluluk duyuyoruz her an eksik olmayan güler yuzumuzle sızlere hizmet vermekten keyif alıyoruz...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Kasık tatlısı ve çili soslu tavuk bir burda yenir :)",
+            "food+": ["kasık tatlısı", "çili soslu tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Gozleme bildiklerinizden cok farkli.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Corbalari, tum yemekleri ve magnolialari harika, Ankaradaki en keyifli restorant",
+            "food+": ["çorba","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Hizmeti harika",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Garsonlar Cok ilgili ozellikle Ersin Gök'e ayrıca tesekkur ediyorum :) servisde soylendigi gibi degil gayet hizli, melanzene-biftekli közlenmis patlicanli pizza harika!",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Öncelikle buranın fast Food olmadıgını lütfen unutmayın servis süresi minimum 13 dakikadir afiyet olsun arkadaslar",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Mekanın girişinde nazik bi karşılama, işine hakim ve yemek seçiminde sizi yönlendiren şefiniz yemek öncesi sizi rahatlatıyor...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaa seni seviyorum :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çalışanlar kibar ve ilgililer. Servis çok hızlı. Denediğim tüm yemekler mükemmel, sunumları çok şık. Bitki çayları hem miktar hem lezzet açısından harikalar. Gordion'a gittiğinizde kesinlikle uğrayın.",
+            "food+": ["bitki çayı"],
+            "food-": []
+        },
+        {
+            "comment": "En güzel tatlısı Magnolia çilekli.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia süper bir şeymiş, deneyin, pişman olmayacaksınız :)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu ve cilekli magnolia enfes ;)))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop'ta Magnolia puding yemeyeni dövüyolarmış.Lezziz ve fiatı da uygun.(8 TL)Aslen Newyork Magnolia Bakery den alınan tatlının,orjinalinde bulunan kedi dilini Türkiyede cici bebe bisküvi almış.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Asya usulu somon nefis",
+            "food+": ["asya usulü somon"],
+            "food-": []
+        },
+        {
+            "comment": "Yemeklerinin her biri ayrı lezzetli, garsonları cok guleryuzlu. Eeeee daha ne olsun, hem sıcak, hem kaliteli, h de fiyatlar uygun:)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Salatalari taze, ama porsiyonlari kucuk. Oyle salatayla diyet yapicam diyorsaniz burada olmaz... Menu de sebze yemegi de yok. Ayrica acik ayran getirmeleri de biraz ucuzculuk olmus...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia vazgecilmezim herkese tavsiye ederim",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Servis ve ilgi harika",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bahsedilenin aksine garsonlar gayet ilgili , servis çok hızlıydı. Teriyaki tavuktan da memnun kaldık.",
+            "food+": ["teriyaki tavuk"],
+            "food-": []
+        },
+        {
+            "comment": "Sakaci garsonlari, mukemmel makarnalari ve magnolia'siyla muthis bir yer.",
+            "food+": ["makarna", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kahvaltısı çok iyi , ayrıca kaşarlı omleti tam kıvamında ... Sonrada muzlu magnolia",
+            "food+": ["kahvaltı", "kaşarlı omlet"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia çilekli ve frambuazlı <3 hayatınızın aşkı olucak...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Corba severlere sicilya usulu sebze corbasi siddetle tavsiye edilir. Bak harbiden diyorm",
+            "food+": ["sicilya usulü sebze çorbası"],
+            "food-": []
+        },
+        {
+            "comment": "Tavuklu noodle yidik, begendk tavsiye ettik :)",
+            "food+": ["noodle"],
+            "food-": []
+        },
+        {
+            "comment": "Yarım saat yemeğin gelmesini bekledim.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Feslegenli fetuchini ve mantar soslu bonfile muhtesem",
+            "food+": ["fesleğenli fetuchini", "mantar soslu bonfile"],
+            "food-": []
+        },
+        {
+            "comment": "Sunumlar harika, çok neşeli :)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Caprese cok basarili, gayet de doyurucu. Magnolia yemediyseniz mutlaka deneyin, cikolatali ve muzlu favorim :)",
+            "food+": ["caprese","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Acı-ekşi çorba acı sewenler ve değişik tat arayanlar için 10 numara tercih :)))))",
+            "food+": ["acı ekşi çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Pizza ince hamur,citir citir...Basarili",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Kesinlikle muzlu magnolia en güzeli ...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tavuklu Cafe de Paris!! Muhteşemdi!!",
+            "food+": ["cafe de paris"],
+            "food-": []
+        },
+        {
+            "comment": "Çorbaları çok güzel, gözlemeyi özellikle öneriyorum biraz az ama çok lezzetli,, tatlı olarak Magnolia ;)",
+            "food+": ["çorba", "gözleme","magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Haşlanmış patates ile servis edilen Karışık omletini tadın isterim.",
+            "food+": ["karışık omlet"],
+            "food-": []
+        },
+        {
+            "comment": "Cafe de Paris incecik. Sosun tadı da yerinde. Masonluğa ise Kafes Fırın'ın Mualla-Müberra ikilisine benziyor. Güzeller.",
+            "food+": ["cafe de paris"],
+            "food-": []
+        },
+        {
+            "comment": "Garsonlara sifat bulamiyorum burada!! zirt pirt masanin etrafinda dolanmalar, masayi temizlemeler, bi gidin rahat birakin... Soz ben kalkarken temizliycem. Derin sohbetin ortasinda pat garson eli.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Basinizda dikilen suratsiz garson yemeginiz bitmeden masayi topluyor, adeta tum lokmalari sayiyor bi an once kalkip gidin diye.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Uzun zamandir yemedigim kadar Enfes bir tat çilekli ve frambuazli Magnolia. Çok nostaljik, çocukluktaki bir tat gibi. Yiyen musmutlu yemeyen bin pişman.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ankara'da nadir rastladığım bir durum: az-orta değdigimde gercekten az-orta pişmiş gelen bir antrikot!... Şimdi beni çilekli-muzlu magnoliam ile yalnız bırakın...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "köftesi biraz ev yemeği tadında çok hafifti, hatta belki biraz yavan. yağı filan azdı.  sağlıklısını arayana duyurulur. bi de yanında piyaz vardı, soğansız piyaz olur muymuş olmazmış, olmamış",
+            "food+": [],
+            "food-": ["köfte", "piyaz"]
+        },
+        {
+            "comment": "Külbastı beğendim harika",
+            "food+": ["külbastı"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop steak: ne diyeceğimi bilemedim. Kötü desem haksızlık etmiş olurum. İyi desem... I ıh. Bir seyler tam olmamış sanki. Etin üstündeki biberler ve peynir kalın ete yakışmamış galiba.",
+            "food+": [],
+            "food-": ["cookshop steak"]
+        },
+        {
+            "comment": "Magnolia Puddingi meşhur olmasına ragmen tüm pastaları tavsiye edilir. Dekorasyonunu çok seviyorum, kırmızı kareli masa örtüleri, ampuller, tavana asılı tablolar ve birbirinden guzel tatlar :)",
+            "food+": ["pasta"],
+            "food-": []
+        },
+        {
+            "comment": "Limonatasi mutlaka icilmeli :)",
+            "food+": ["limonata"],
+            "food-": []
+        },
+        {
+            "comment": "B.kunu yiyen hayvan domuzun etini mutfağında bulundurabilen iğrenç mutfak... Öügh;)(",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cay sevene yasemin cayi denenir;)",
+            "food+": ["yasemin çayı"],
+            "food-": []
+        },
+        {
+            "comment": "Guzel ama brz gec servsi :)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bu gün bayram şeker almadan gitmeyinnn:)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Mozaik pasta supeeeeer ama yeterince acsanız",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "bir de cafe de paris sosunun içeriği hakkında gerçekten fikri olan bir garson almaları da şart ;)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bodrumdaki mekan ile kıyaslanmaz ama napalım menü aynı en azından:)",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Argentin steak güzel ama sosu tuzluydu. Sanırım soyalı olduğu için.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop steak deneyin. Steak ustu kasar ve sebze....",
+            "food+": ["cookshop steak"],
+            "food-": []
+        },
+        {
+            "comment": "Acı severlere Mexicano önerilir..",
+            "food+": ["mexicano"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia rezalet. Bildigin bebek mamasi. Goruntusu bile yeme keyfimi kaciriyor",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Bir garson, makarnalarını bu kadar mı kötüler yaf :P !",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Limonata + cikolatali magnolia : yemeyenin hayatinin yuzde 75 i yok sayiliomus :))",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Makarna Cookshop'da yenir.",
+            "food+": ["makarna"],
+            "food-": []
+        },
+        {
+            "comment": "Filtre kahve icmeyin, sulu ve berbat, daha cok kahve kokulu su iciyor gibi",
+            "food+": [],
+            "food-": ["kahve"]
+        },
+        {
+            "comment": "Cilekli limonata mutlaka deneyin efsanevi :)",
+            "food+": ["çilekli limonata"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia puding New York'taki orjinalinden bile guzel.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "30 Liralık Cafe de Paris'nin yaninda klasik salatasinin servis edilmemesi üzücü...",
+            "food+": [],
+            "food-": ["cafe de paris"]
+        },
+        {
+            "comment": "Magnolia ! ",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "garsonlari sahane.. yemekleri sahane.. cookshop corba, toscana pizza, elmali turta+vanilyali dondurma.. hepsi sahane =)",
+            "food+": ["cookshop çorba", "toscana pizza", "dondurma"],
+            "food-": []
+        },
+        {
+            "comment": "Guzel mekan ama arınç g. her masayı kesiyor",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Domatesli feslegenli pizzasi harika..",
+            "food+": ["domatesli fesleğenli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Muhakkak magnolia yenilmeli gordiondaki güzel yerlrdem. nezih, servis iyi.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatlı yiyeceksin burda tatlı !!!",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Cikolatali magnolia <3",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolya neden abartılmış bu kadar hiç güzel değil yemeyin",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Alternatif Iskender şiddetli tavsiyeler",
+            "food+": ["alternatif iskender"],
+            "food-": []
+        },
+        {
+            "comment": "Superrr;))",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Tatlısı muhteşem ...",
+            "food+": ["tatlı"],
+            "food-": []
+        },
+        {
+            "comment": "Cafe de Paris'i siddetle tavsiye ederim ;)",
+            "food+": ["cafe de paris"],
+            "food-": []
+        },
+        {
+            "comment": "magnolia süper",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Garsonlar ultra yavaş ozellikle pizzasi super servisi zayif",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaa:) muhtesemmmmm:)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu cilekli ve cikolatali magnolia muhtesemmm!!!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "puding  :)",
+            "food+": ["puding"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu Magnolia pudingi muhteşem.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu ve cikolatali magnoliasi ve citir tavuklu sezari ve noodle lari cok basarili.tum yiyecekler cok guzel. Cola tasarimlari da bir harika!",
+            "food+": ["magnolia", ".ıtır tavuklu sezar", "noodle"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia denemeden gitmeyin kesinlikle super",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Çikolata-Muz Karışık Magnolia Puding denenmeli",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Servis çok hızlı neredeyse hiç beklemedik",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "cookshop corba sahane ('yarim' demezseniz, oldukca buyuk bir kasede geliyor =))",
+            "food+": ["çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Guvecte Mantarli kapama lezzetli ancak hamburgerlerini tavsiye etmem. Limonatasi da hem servis hem lezzet olarak iyi..",
+            "food+": ["güveçte mantarlı kapama", "limonata"],
+            "food-": ["hamburger"]
+        },
+        {
+            "comment": "Servis çok başarılı. Yemekler de çok leziz.",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "yediğim en lezzetli makarnalardı!",
+            "food+": ["makarna"],
+            "food-": []
+        },
+        {
+            "comment": "servisi sahane.. yemekler muthis.. ortam cok guzel.. tek kotu sey: avm icinde olmasi..",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cilekli magnolia enfes!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Bence pizzalar tam not alır. Dört peynirliyi de deneyin.",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Porsiyonlar cok ufak ust kattaki food court daha mantikli",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Servis hizliydi pizza guzel ravioli tuzluydu",
+            "food+": ["pizza"],
+            "food-": ["ravioli"]
+        },
+        {
+            "comment": "garsonlar son derece sinir bozucu! servis cok yavas!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "İtalyan restoranı olmamasına rağmen pizzaları da çok leziz... Kasabali karamelize soğan/tulum peyniri ve ispanakla nefis! Vegeteryan tercihi de olabilir.",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Yemekler super. Etli mexicano cok lezzetli.",
+            "food+": ["etli mexicao"],
+            "food-": []
+        },
+        {
+            "comment": "Teriyaki favorim ve tabii ki ustune yer kalirsa muzlu magnolia super olur:)",
+            "food+": ["teriyaki", "magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Balkabaklı magnolia yeni cıkmış mutlaka deneyin",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia pudding denemeden gitmeyin! Cilekli muzlu karisik.",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Begendi corbasini deneyin! Siddete karsiyim ama siddetle tavsiye ediyorum",
+            "food+": ["beğendi çorba"],
+            "food-": []
+        },
+        {
+            "comment": "Oreolu Magnolia puding, yummy..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "#Analoni #makarna",
+            "food+": ["makarna"],
+            "food-": []
+        },
+        {
+            "comment": "Not bad....jgıjvdglkbfwdkkbgulbgjhjkfd",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia adlı tatlısını dememelisiniz.",
+            "food+": [],
+            "food-": ["magnolia"]
+        },
+        {
+            "comment": "Cheesecake cok kotu...",
+            "food+": [],
+            "food-": ["cheesecake"]
+        },
+        {
+            "comment": "Muzlu magnolia",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Somon füme",
+            "food+": ["somon füme"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia 👍🙊😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "4 Peynirli pizza zamanı😉",
+            "food+": ["4 peynirli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Mognoliaaaaaa 😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "İlgisiz garsonlar 👎👎👎",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia👌",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia askina 💛😋",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tabiki magnolia 👍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia pudiiiinnngggg 💖💖💖",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia super",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Oreo lu magnolia puding kesinlikle denenmeli...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Feticino ALFREDO",
+            "food+": ["feticino alfredo"],
+            "food-": []
+        },
+        {
+            "comment": "Mag :-):-):-)",
+            "food+": ["mag"],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop steak lezzetli,Cafe'de Paris zayıf, magnolına çıkolatalı guzeldı.",
+            "food+": ["cookshop steak","magnolia"],
+            "food-": ["cafe de paris"]
+        },
+        {
+            "comment": "tabiki mangolina puding",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia harikaaa",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaaaaa",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia 😍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Oreolu magnolia👍",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu magnolia elbette!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Tatli sevmeyen bana tatliyi sevdiren enfes tat magnolianin bebe biskuvili, cocuklugumu ozleten lezzeti paha bicilmez....",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Kararsiz kalanlar icin steak & cheese sandwich tavsiyemdir.",
+            "food+": ["steak cheese sandwich"],
+            "food-": []
+        },
+        {
+            "comment": "Ravioli Ricotta 👌👌",
+            "food+": ["racioli ricotta"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaaaaa",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia ♡♡",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ok let's face it...Virgin Mary is a liquid food...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Yemek oncesi gelen zeytinyagi ve ekmek cok iyiydi ve ayni zamanda doyurucuydu",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Just ok, nothing special really.  Food was a bit too greasy...",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Sahne. Yeniden. 6 Kasım. If Performance. @xactivites",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Cookshop gozleme Yemeni laziness",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaaaaa.....",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Pitza is perfect",
+            "food+": ["pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaa ♥",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "I love magnolia;)",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Sandwich ekmeklerini degiştirirlerse on nümero olcak 👍",
+            "food+": [],
+            "food-": ["sandwich"]
+        },
+        {
+            "comment": "MAGNOLIA..",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Yasasin Manolya !",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Patlicanli zeytinli pennesi inanilmaaz!",
+            "food+": ["patlıcanlı zeytinli penne"],
+            "food-": []
+        },
+        {
+            "comment": "Cikolatali cheese cake enfes",
+            "food+": ["çikolatalı cheese cake"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia...",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia!!!",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Ci-monata deneyin:))",
+            "food+": ["çimonata"],
+            "food-": []
+        },
+        {
+            "comment": "Wifi sifre: magnolia",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Magnolia küçüktürüç!",
+            "food+": [],
+            "food-": []
+        },
+        {
+            "comment": "Domatesli feslegenli pizza !",
+            "food+": ["domatesli fesleğenli pizza"],
+            "food-": []
+        },
+        {
+            "comment": "Magnoliaaa !",
+            "food+": ["magnolia"],
+            "food-": []
+        },
+        {
+            "comment": "Muzlu Manolya si superrrrr",
+            "food+": ["magnolia"],
+            "food-": []
+        }
+    ]
+}

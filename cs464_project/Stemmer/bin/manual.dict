@@ -1,0 +1,16 @@
+# This file contains expected stems for some common words
+# The stems in generated_stems.dict will be override by stems in this file
+
+ve	ve
+bugun	bugun
+acili	acili
+sunum	sunum
+yarim	yarim
+guler	guler
+ilgi	ilgi
+usulu	usulu
+ince	ince
+uzun	uzun
+simdi	simdi
+icilmeli	icil
+seker	seker
